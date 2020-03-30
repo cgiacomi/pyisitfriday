@@ -16,3 +16,6 @@ lambda/lib/
 .cache/
 
 **/__pycache__/
+
+build/
+pyisitfriday.egg-info/
